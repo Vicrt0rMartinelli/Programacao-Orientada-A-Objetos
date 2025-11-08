@@ -1,5 +1,5 @@
 //proximos capitulos é sobre esse código
-package Ex002_MSNmensager;
+package ex002_MSNmensager;
 
 public class MSNMenssenger {
     public void enviarMensagem(){
