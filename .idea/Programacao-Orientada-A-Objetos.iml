@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/FundamentosDaPOOcomJava/Construtores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FundamentosDaPOOcomJava/EstudoEnum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FundamentosDaPOOcomJava/EstudoGetterSetters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FundamentosDaPOOcomJava/VisibilidadeDeRecurso" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PilaresDaPOO/Encapsulamento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PilaresDaPOO/PrimeiroExemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PilaresDaPOO/Abstracao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PilaresDaPOO/Heranca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PilaresDaPOO/Polimorfismo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PilaresDaPOO/Interface" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
